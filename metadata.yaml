@@ -1,0 +1,34 @@
+_repo: The-keeper-of-Red-Horse-Pass_70488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70488'
+  lccn: '38001977'
+language: en
+pgterms:marc905: 20230213194543tuttle
+pgterms:marc906: '1937'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBoston, MA :$bHoughton Mifflin Company, $c1937.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The keeper of Red Horse Pass
+url: http://www.gutenberg.org/ebooks/70488
